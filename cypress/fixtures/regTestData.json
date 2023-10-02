@@ -1,0 +1,7 @@
+{
+  "invalidEmail": ["@mail.ru", "test-email2023mail.ru", "test-email2023@", "test-email2023@mail", "test-email2023@mailru"],
+  "invalidName": ["   ", "1", "qwertyuiop[]asdfghjklzxcvbnmlkjhERYUIOGSZqw24567890sdrtgvbnhyujks", "AnnaV", "АЛДРЛДАРЛР"],
+  "invalidPassword": [" ", "12345", "qwerty1234QWERTY12345"],
+
+  "Password": ["   ", "ASDDDLMFDLMFDL:FML:FMF:M<F:<F:F|D|F|F<|F<|D<F|F<|F<|F<34353455464", "123"]
+}
