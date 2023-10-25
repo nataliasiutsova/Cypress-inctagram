@@ -1,17 +1,12 @@
 [
-  {
-    "userEmail": "testemail@fexbox.org",
-    "userPassword": "qwerty123",
-    "userName": "fakeuser"
-  },
-  {
-    "userEmail": "testemail@fexbox.org",
-    "userPassword": "qwerty123",
-    "userName": "fakeuser"
-  },
-  {
-    "userEmail": "testemail@fexbox.org",
-    "userPassword": "qwerty123",
-    "userName": "fakeuser"
-  }
+	{
+		"userEmail": "testinctagram23@gmail.com",
+		"userPassword": "qwerty123-",
+		"userName": "test23"
+	},
+	{
+		"userEmail": "testinctagram23@gmail.com",
+		"userPassword": "qwerty123-",
+		"userName": "test23"
+	}
 ]
